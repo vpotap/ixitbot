@@ -32,3 +32,33 @@
 07028070275
 08037236675
 08033764285
+
+
+cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokku pendokku"
+
+ ☐ use redis as a datastore for the counter #15mins
+ ☐ use dynamic job names so we can track em in the ui #15mins
+ ☐ deploy #30mins
+ ☐ notjustok schema 15mins
+ ☐ deploy #5mins
+ ☐ setup cron #15mins
+ ☐ setup periodic tweeting #15mins
+ ☐ fix all download issues, stats, seo, logging
+   ☐ stats #30
+   ☐ seo #30
+   ☐ logging #30
+   ☐ resumability #15
+   ☐ drag and drop #45
+   ☐ favicon for file upload and donload progress #20
+   ☐ display meta data // use "acceleraed from", accelerated at "400%", get network supplier "isp" #60
+ ☐ setup periodic saves for last page, counter etc job progress data !important @critical #15
+ ☐
+ ☐ correctly measure mongodb performance for impact of traffic from crawling when saving. #30
+ ☐ deploy #5
+ ☐ use elastic search to index pertinent fields. #5
+ ☐ deploy
+ ☐ design website #120
+ ☐ attach website to server  #30
+ ☐ deploy #5
+total mins : 520
+8 hours ... can b finished in a day.. so we strike hard from now till tomorrow
