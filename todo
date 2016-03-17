@@ -36,8 +36,8 @@
 
 cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokku pendokku"
 
- ☐ use redis as a datastore for the counter #15mins
- ☐ use dynamic job names so we can track em in the ui #15mins
+ ✔ use redis as a datastore for the counter #15mins @done (16-03-16 18:21)
+ ✔ use dynamic job names so we can track em in the ui #15mins @done (16-03-16 18:21)
  ☐ deploy #30mins
  ☐ notjustok schema 15mins
  ☐ deploy #5mins
