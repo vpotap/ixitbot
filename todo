@@ -38,6 +38,7 @@ cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokk
 
  ✔ use redis as a datastore for the counter #15mins @done (16-03-16 18:21)
  ✔ use dynamic job names so we can track em in the ui #15mins @done (16-03-16 18:21)
+ ☐ add persistent storage
  ☐ deploy #30mins
  ☐ notjustok schema 15mins
  ☐ deploy #5mins
@@ -52,7 +53,7 @@ cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokk
    ☐ favicon for file upload and donload progress #20
    ☐ display meta data // use "acceleraed from", accelerated at "400%", get network supplier "isp" #60
  ☐ setup periodic saves for last page, counter etc job progress data !important @critical #15
- ☐
+ ☐ adverts on the site
  ☐ correctly measure mongodb performance for impact of traffic from crawling when saving. #30
  ☐ deploy #5
  ☐ use elastic search to index pertinent fields. #5
