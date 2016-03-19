@@ -1,0 +1,65 @@
+07030399996
+08052117220
+
+08037431397
+08181623532
+08037046752
+08033660804
+07067281810
+08063891961
+08098702600
+08033434680
+07038344883
+08037762326
+07066750027
+08176010498
+08035040895
+08063264257
+08173264257
+08033168007
+08033168007
+08063934833
+08037453568
+08036751167
+08035512441
+08184197468
+08182059932
+08063839405
+08033016721
+08053218151
+07028054310
+08057108443
+07028070275
+08037236675
+08033764285
+
+
+cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokku pendokku"
+
+ ✔ use redis as a datastore for the counter #15mins @done (16-03-16 18:21)
+ ✔ use dynamic job names so we can track em in the ui #15mins @done (16-03-16 18:21)
+ ☐ add persistent storage
+ ☐ deploy #30mins
+ ☐ notjustok schema 15mins
+ ☐ deploy #5mins
+ ☐ setup cron #15mins
+ ☐ setup periodic tweeting #15mins
+ ☐ fix all download issues, stats, seo, logging
+   ☐ stats #30
+   ☐ seo #30
+   ☐ logging #30
+   ☐ resumability #15
+   ☐ drag and drop #45
+   ☐ favicon for file upload and donload progress #20
+   ☐ display meta data // use "acceleraed from", accelerated at "400%", get network supplier "isp" #60
+ ☐ setup periodic saves for last page, counter etc job progress data !important @critical #15
+ ☐ adverts on the site
+ ☐ correctly measure mongodb performance for impact of traffic from crawling when saving. #30
+ ☐ deploy #5
+ ☐ use elastic search to index pertinent fields. #5
+ ☐ deploy
+ ☐ design website #120
+ ☐ attach website to server  #30
+ ☐ deploy #5
+total mins : 520
+8 hours ... can b finished in a day.. so we strike hard from now till tomorrow
