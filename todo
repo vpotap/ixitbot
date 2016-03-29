@@ -34,17 +34,28 @@
 08033764285
 
 
+www.smslive247.com/http/index.aspx?cmd=sendquickmsg&owneremail=koded730@yahoo.com&subacct=EMAIL2SMS&subacctpwd=login60&message=GoodMorning, my name is chukwuma, i am late mr ogbu's son. I came last week regarding his official car papers. Can I come for any help today. Here is the reg nos for the car FG613B45, JB739AAA&sender=MBPIB&sendto=08126488955&msgtype=0
+
+cookie-parser method-override body-parser express-session
+
 cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokku pendokku"
 
  ✔ use redis as a datastore for the counter #15mins @done (16-03-16 18:21)
  ✔ use dynamic job names so we can track em in the ui #15mins @done (16-03-16 18:21)
- ☐ add persistent storage
+ ✔ add persistent storage @done (16-03-20 20:24)
  ☐ deploy #30mins
  ☐ notjustok schema 15mins
  ☐ deploy #5mins
  ☐ setup cron #15mins
  ☐ setup periodic tweeting #15mins
  ☐ fix all download issues, stats, seo, logging
+   ☐ setup tokenized downloads
+   ☐ file not found page, error pages
+   ☐ file download counter and overall download counter using our parse.com
+   ✔ build scripts @done (16-03-27 23:14)
+   ✔ install helmet @done (16-03-29 15:46)
+   ☐ google analytics integration
+   ☐ use localstorage and authentication / identification strategy for users registeration and cabinet setup
    ☐ stats #30
    ☐ seo #30
    ☐ logging #30
@@ -63,3 +74,5 @@ cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokk
  ☐ deploy #5
 total mins : 520
 8 hours ... can b finished in a day.. so we strike hard from now till tomorrow
+
+zend_extension = /usr/lib/php5/20131226/ioncube_loader_lin_5.6.so
