@@ -33,6 +33,7 @@
 08037236675
 08033764285
 
+#dokku config:set iwacc APP_SECRET=fJUWH@@dsn4ee220023avcsddks3220*S=edsd VAULT_RESOURCE="http://vault.i-x.it" API_RESOURCE="http://api.i-x.it" IXIT_APP_MONGO_DB="mongodb://ixitapi:ea49cbfc1343b2c3aca379819250958f@dokku-mongo-ixitapi:27017/ixitapi"
 
 www.smslive247.com/http/index.aspx?cmd=sendquickmsg&owneremail=koded730@yahoo.com&subacct=EMAIL2SMS&subacctpwd=login60&message=GoodMorning, my name is chukwuma, i am late mr ogbu's son. I came last week regarding his official car papers. Can I come for any help today. Here is the reg nos for the car FG613B45, JB739AAA&sender=MBPIB&sendto=08126488955&msgtype=0
 
@@ -44,27 +45,28 @@ cat ~/.ssh/wu_rsa.pub | ssh wwwuser@104.238.173.83 "sudo sshcommand acl-add dokk
  ✔ use dynamic job names so we can track em in the ui #15mins @done (16-03-16 18:21)
  ✔ add persistent storage @done (16-03-20 20:24)
  ☐ deploy #30mins
- ☐ notjustok schema 15mins
- ☐ deploy #5mins
- ☐ setup cron #15mins
+ ✔ notjustok schema 15mins @done (16-04-01 13:00)
+ ✔ deploy #5mins @done (16-04-06 17:02)
+ ✔ setup cron #15mins @done (16-04-06 17:02)
  ☐ setup periodic tweeting #15mins
  ☐ fix all download issues, stats, seo, logging
    ☐ setup tokenized downloads
    ☐ file not found page, error pages
-   ☐ file download counter and overall download counter using our parse.com
+   ✔ file download counter and  @done (16-03-31 11:29)
+   ☐ overall download counter using our parse.com
    ✔ build scripts @done (16-03-27 23:14)
    ✔ install helmet @done (16-03-29 15:46)
-   ☐ google analytics integration
+   ✔ google analytics integration @done (16-04-03 00:23)
    ☐ use localstorage and authentication / identification strategy for users registeration and cabinet setup
    ☐ stats #30
-   ☐ seo #30
-   ☐ logging #30
+   ✔ seo #30 @done (16-04-03 00:24)
+   ☐ logging #30 @critical
    ☐ resumability #15
    ☐ drag and drop #45
    ☐ favicon for file upload and donload progress #20
    ☐ display meta data // use "acceleraed from", accelerated at "400%", get network supplier "isp" #60
  ☐ setup periodic saves for last page, counter etc job progress data !important @critical #15
- ☐ adverts on the site
+ ✔ adverts on the site @done (16-04-01 13:00)
  ☐ correctly measure mongodb performance for impact of traffic from crawling when saving. #30
  ☐ deploy #5
  ☐ use elastic search to index pertinent fields. #5
@@ -76,3 +78,29 @@ total mins : 520
 8 hours ... can b finished in a day.. so we strike hard from now till tomorrow
 
 zend_extension = /usr/lib/php5/20131226/ioncube_loader_lin_5.6.so
+
+
+starting
+http://notjustok.com/category/music/
+follow
+#post_168036 > div.entry > h1 > a
+title
+article.post > h1
+follow
+'article.post > div.entry p a[target="_blank"]
+
+
+tfare - 800
+grocery - 6000
+slow - 500
+weed - 300
+ayo - 1500
+mtn - 1000
+glo - 200
+food - 550
+stationary - 500
+
+----------
+
+
+Use nodejs and nginx to setup ixit.com.ng redirect and www redirect for all domains.
