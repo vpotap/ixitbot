@@ -104,3 +104,5 @@ stationary - 500
 
 
 Use nodejs and nginx to setup ixit.com.ng redirect and www redirect for all domains.
+{{EntryTitle}} {{EntryUrl}} {{EntryAuthor}} {{EntryContent}} {{EntryImageUrl}} {{EntryPublished}}
+http://139.162.212.164:3350/newpost
