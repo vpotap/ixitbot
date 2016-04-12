@@ -106,3 +106,16 @@ stationary - 500
 Use nodejs and nginx to setup ixit.com.ng redirect and www redirect for all domains.
 {{EntryTitle}} {{EntryUrl}} {{EntryAuthor}} {{EntryContent}} {{EntryImageUrl}} {{EntryPublished}}
 http://139.162.212.164:3350/newpost
+
+
+Incoming Http
+Server,
+Crawls the 4
+
+
+Endpoint at iwacc for ixitbot links which should be piped into ixibot 2nd endpoint to
+get the information, then ixit bot will ask iass to download the file , and return it
+mediaId, ixitbot will reply iwacc with a redirect url to the usual ixit link .
+
+
+mad time wasting intro.. thts dope
