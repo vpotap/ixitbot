@@ -172,7 +172,7 @@ Blog now or try trying
 
  ☐ Search
  ☐ vanity uploads
- ☐ download count and view widget
+ ✔ download count and view widget @done (16-07-26 08:47)
  ☐ upload widget
  ☐ files preview and info
  ✔ files container @done (16-05-18 00:33)
@@ -189,12 +189,22 @@ Blog now or try trying
  ✔ Helmet for iSAS @done (16-06-09 18:38)
  ☐ connect previews to prerender.io'
  ✔ fix filename when downloading @done (16-06-04 01:11)
- ☐ animate upload queue
- ☐ Animate upload button, use flasher to hint at process.
+ ✔ animate upload queue @done (16-07-26 08:46)
+ ✔ Animate upload button, use flasher to hint at process. @done (16-07-26 08:46)
  ☐ SEO @critical`
- ☐ Google Analytics @critical
- ☐ refresh page after auth change
-
+ ✔ Google Analytics @critical @done (16-07-26 08:46)
+ ✔ refresh page after auth change @done (16-07-26 08:46)
+ ☐ too mch json data in file after cabinet load on browser,
+ ☐ client side security against authenticated user indexing and listing files belonging to another user @critical
+     ☐ because of the hole created by the owner -> mediaSchema
+ ☐ Sitemaps for static routes using express router method or loop @high
+ ☐ New download page query connecting a hashid from i-x.it to a route redirected to ixit.com.ng/mediaNumber/title/title @high
+ ✔ Conditional redirect on static entry points depending on user agent  @high @done (16-07-27 00:52)
+ ☐ Query funnel from redis to mongo to elastic to 404 @critical
+ ✔ Design Error and Download page @high @done (16-08-02 09:50)
+ ✔ Rotate design and test @low @done (16-08-02 09:50)
+ ☐ Add users to Email list @critical
+ Remove errors from view.
 
  Free Photoshoot campaign
 
@@ -202,26 +212,11 @@ Blog now or try trying
 
  Hi , ixit for fast accelerated downloads, keep files secure, make money from downloads.
 
-
-{
- "kind": "identitytoolkit#GetAccountInfoResponse",
- "users": [
-  {
-   "localId": "fW4wbzBAHyWFE96Ajw9fb4gwYEl2",
-   "email": "michael@i-x.it",
-   "emailVerified": false,
-   "providerUserInfo": [
-    {
-     "providerId": "password",
-     "federatedId": "michael@i-x.it",
-     "email": "michael@i-x.it",
-     "rawId": "michael@i-x.it"
-    }
-   ],
-   "passwordHash": "UkVEQUNURUQ=",
-   "passwordUpdatedAt": 1.465221757E12,
-   "validSince": "1465221757",
-   "createdAt": "1465221757000"
-  }
- ]
-}
+ ☐ Download agreegate and Cash agreegate
+ ☐ Facebook signin
+ ☐ New website
+ ☐ Backup using ownCloud
+ ☐ Desktop Anonymous Uploads
+ ☐ ixitbot
+ ☐ Private and public files
+ ☐ use dropbox and firebase to sync files
