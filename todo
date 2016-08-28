@@ -218,5 +218,18 @@ Blog now or try trying
  ☐ Backup using ownCloud
  ☐ Desktop Anonymous Uploads
  ☐ ixitbot
+    ☐ Should start cron job for every 2 mins
+       ☐ Should abort after first result
+       ☐ Check if its new result
+       ☐ Facebook it , make it pretty
+       ☐ Website it, make it pretty
+    ☐ Route to request file download for first time
+       ☐ if it already has a mediaNumber, use the short url to request a redirect
+
+    ☐ Behaviour to redirect to valid ixit url.
+    ☐ Search page on new ixit landing.
+    ☐ Highest downloads and features auto plugged in to ixit home page
+ ☐ Actual file size, downloaded size. ixit premium
+
  ☐ Private and public files
  ☐ use dropbox and firebase to sync files
