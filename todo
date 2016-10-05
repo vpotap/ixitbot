@@ -32,10 +32,11 @@
 07028070275
 08037236675
 08033764285
+
+5122 5049 7293 6917
+
 PAN- 5407613100388840 Expiry- 1117 CVV- 298
 #dokku config:set iwacc APP_SECRET=fJUWH@@dsn4ee220023avcsddks3220*S=edsd VAULT_RESOURCE="http://vault.i-x.it" API_RESOURCE="http://api.i-x.it" IXIT_APP_MONGO_DB="mongodb://ixitapi:ea49cbfc1343b2c3aca379819250958f@dokku-mongo-ixitapi:27017/ixitapi"
-
-www.smslive247.com/http/index.aspx?cmd=sendquickmsg&owneremail=koded730@yahoo.com&subacct=EMAIL2SMS&subacctpwd=login60&message=GoodMorning, my name is chukwuma, i am late mr ogbu's son. I came last week regarding his official car papers. Can I come for any help today. Here is the reg nos for the car FG613B45, JB739AAA&sender=MBPIB&sendto=08126488955&msgtype=0
 
 
 www.smslive247.com/http/index.aspx?cmd=sendquickmsg&owneremail=koded730@yahoo.com&subacct=EMAIL2SMS&subacctpwd=login60&message=Your transaction completed successfully. Your transaction ID is #45759AA9. Thank you for choosing us.&sender=MetroBPIB&sendto=08146170499&msgtype=0
@@ -191,14 +192,14 @@ Blog now or try trying
  ✔ fix filename when downloading @done (16-06-04 01:11)
  ✔ animate upload queue @done (16-07-26 08:46)
  ✔ Animate upload button, use flasher to hint at process. @done (16-07-26 08:46)
- ☐ SEO @critical`
+ ✔ SEO @critical` @done (16-09-07 18:47)
  ✔ Google Analytics @critical @done (16-07-26 08:46)
  ✔ refresh page after auth change @done (16-07-26 08:46)
  ☐ too mch json data in file after cabinet load on browser,
  ☐ client side security against authenticated user indexing and listing files belonging to another user @critical
      ☐ because of the hole created by the owner -> mediaSchema
- ☐ Sitemaps for static routes using express router method or loop @high
- ☐ New download page query connecting a hashid from i-x.it to a route redirected to ixit.com.ng/mediaNumber/title/title @high
+ ✔ Sitemaps for static routes using express router method or loop @high @done (16-09-07 18:47)
+ ✔ New download page query connecting a hashid from i-x.it to a route redirected to ixit.com.ng/mediaNumber/title/title @high @done (16-09-07 18:47)
  ✔ Conditional redirect on static entry points depending on user agent  @high @done (16-07-27 00:52)
  ☐ Query funnel from redis to mongo to elastic to 404 @critical
  ✔ Design Error and Download page @high @done (16-08-02 09:50)
@@ -217,12 +218,7 @@ Blog now or try trying
  ☐ New website
  ☐ Backup using ownCloud
  ☐ Desktop Anonymous Uploads
- ☐ ixitbot
-    ☐ Should start cron job for every 2 mins
-       ☐ Should abort after first result
-       ☐ Check if its new result
-       ☐ Facebook it , make it pretty
-       ☐ Website it, make it pretty
+
     ☐ Route to request file download for first time
        ☐ if it already has a mediaNumber, use the short url to request a redirect
 
@@ -233,3 +229,11 @@ Blog now or try trying
 
  ☐ Private and public files
  ☐ use dropbox and firebase to sync files
+
+IXITBOT / IASS:
+ ☐ Move all definition files to a db implementation.
+  ☐ Should start cron job for every 2 mins
+     ☐ Should abort after first result
+     ☐ Check if its new result
+     ☐ Facebook it , make it pretty
+     ☐ Website it, make it pretty
